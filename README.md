@@ -1,5 +1,5 @@
-[![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AivarasNarbutas&show_icons=true))]
-
+![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AivarasNarbutas&show_icons=true)
+<!--[![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AivarasNarbutas&show_icons=true))]-->
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
