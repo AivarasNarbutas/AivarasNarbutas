@@ -1,4 +1,4 @@
-![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AivarasNarbutas&show_icons=false)
+![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AivarasNarbutas&show_icons=true)
 
 <!--
 **AivarasNarbutas/AivarasNarbutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
