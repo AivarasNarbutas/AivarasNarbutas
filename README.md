@@ -1,5 +1,5 @@
 [![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AivarasNarbutas&show_icons=true&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Aivaras_Narbutas&show_icons=true&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Aivaras Narbutas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Aivaras Narbutas&show_icons=true&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivarasNarbutas&layout=donut&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AivarasNarbutas/AivarasNarbutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
