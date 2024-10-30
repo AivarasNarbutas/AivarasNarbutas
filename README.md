@@ -1,4 +1,4 @@
-[![Aivaras Narbutas' GitHub stats](https://github-readme-stats-fm5p-git-main-aivarasnarbutas-projects.vercel.app/api?username=AivarasNarbutas&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aivaras Narbutas' GitHub stats](https://github-readme-stats-fm5p.vercel.app/api?username=AivarasNarbutas&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivarasNarbutas&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
